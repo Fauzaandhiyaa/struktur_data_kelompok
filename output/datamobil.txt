@@ -1,0 +1,12 @@
+Nama: onda Brio
+Usia: 207
+Harga: 245000000
+-----------------
+Nama: uzuki Ertiga
+Usia: 2016
+Harga: 200000000
+-----------------
+Nama: oyota Kijang
+Usia: 1995
+Harga: 86000000
+-----------------
